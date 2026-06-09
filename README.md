@@ -1,3 +1,5 @@
+<img src="https://github.com/SV43/Fluvon-Player/blob/main/fluvon_logo_banner.png">
+
 # FluvonPlayer
 
 **Единое приложение для просмотра телеканалов, фильмов и сериалов — на телефоне, приставке, компьютере и в браузере.**
