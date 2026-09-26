@@ -8,6 +8,26 @@ Fluvon объединяет IPTV-плейлисты, телепрограмму 
 
 ---
 
+## Скриншоты
+
+| Главная | LIVE ТВ |
+|:---:|:---:|
+| ![Главная](screenshots/home.jpg) | ![LIVE ТВ](screenshots/live-tv.jpg) |
+
+| Рекомендованное | Фильмы |
+|:---:|:---:|
+| ![Рекомендованное](screenshots/recommended.jpg) | ![Фильмы](screenshots/movies.jpg) |
+
+| Сериалы | Хочу посмотреть |
+|:---:|:---:|
+| ![Сериалы](screenshots/series.jpg) | ![Хочу посмотреть](screenshots/watchlist.jpg) |
+
+| Карточка тайтла | Меню |
+|:---:|:---:|
+| ![Карточка](screenshots/details.jpg) | ![Меню](screenshots/menu.jpg) |
+
+---
+
 ## Что умеет Fluvon
 
 ### 📺 Прямой эфир (IPTV)
