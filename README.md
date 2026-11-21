@@ -12,19 +12,19 @@ Fluvon объединяет IPTV-плейлисты, телепрограмму 
 
 | Главная | LIVE ТВ |
 |:---:|:---:|
-| ![Главная](screenshots/home.jpg) | ![LIVE ТВ](screenshots/live-tv.jpg) |
+| ![Главная](screenshots/home-1.1.4.jpg) | ![LIVE ТВ](screenshots/live-tv-1.1.4.jpg) |
 
 | Рекомендованное | Фильмы |
 |:---:|:---:|
-| ![Рекомендованное](screenshots/recommended.jpg) | ![Фильмы](screenshots/movies.jpg) |
+| ![Рекомендованное](screenshots/recommended-1.1.4.jpg) | ![Фильмы](screenshots/movies-1.1.4.jpg) |
 
 | Сериалы | Хочу посмотреть |
 |:---:|:---:|
-| ![Сериалы](screenshots/series.jpg) | ![Хочу посмотреть](screenshots/watchlist.jpg) |
+| ![Сериалы](screenshots/series-1.1.4.jpg) | ![Хочу посмотреть](screenshots/watchlist-1.1.4.jpg) |
 
 | Карточка тайтла | Меню |
 |:---:|:---:|
-| ![Карточка](screenshots/details.jpg) | ![Меню](screenshots/menu.jpg) |
+| ![Карточка](screenshots/details-1.1.4.jpg) | ![Меню](screenshots/menu-1.1.4.jpg) |
 
 ---
 
